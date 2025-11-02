@@ -1,4 +1,3 @@
-# My First PowerBI Project 
 # Ever Growth Enterprises
 
 ## Project Brief
